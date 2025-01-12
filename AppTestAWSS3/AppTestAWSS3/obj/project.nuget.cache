@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "XyeiCbXooZs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\johne\\OneDrive\\Documents\\Projects\\C#\\AppTestAWSS3\\AppTestAWSS3\\AppTestAWSS3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\johne\\.nuget\\packages\\awssdk.core\\3.7.400.74\\awssdk.core.3.7.400.74.nupkg.sha512",
+    "C:\\Users\\johne\\.nuget\\packages\\awssdk.s3\\3.7.411.2\\awssdk.s3.3.7.411.2.nupkg.sha512"
+  ],
+  "logs": []
+}

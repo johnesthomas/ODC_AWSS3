@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "x7H3+EjiADc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\johne\\OneDrive\\Documents\\Projects\\C#\\AWSSimpleStorageService\\AWSS3\\AWSSimpleStorageService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\johne\\.nuget\\packages\\awssdk.core\\3.7.400.74\\awssdk.core.3.7.400.74.nupkg.sha512",
+    "C:\\Users\\johne\\.nuget\\packages\\awssdk.s3\\3.7.411.2\\awssdk.s3.3.7.411.2.nupkg.sha512",
+    "C:\\Users\\johne\\.nuget\\packages\\outsystems.externallibraries.sdk\\1.5.0\\outsystems.externallibraries.sdk.1.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
